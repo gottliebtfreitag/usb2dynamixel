@@ -1,12 +1,16 @@
 #pragma once
 
+#include <algorithm>
 #include <cmath>
 #include <cstddef>
+#include <cstdint>
 #include <cstring>
 #include <functional>
 #include <map>
-#include <vector>
+#include <map>
+#include <optional>
 #include <stdexcept>
+#include <vector>
 
 namespace dynamixel {
 
